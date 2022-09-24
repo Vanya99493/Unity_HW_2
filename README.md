@@ -2,8 +2,8 @@
 Interesting features Unity 1-2 HW
 
 
-Prefabs - Spawner.cs 7.line
-Attributes - Spawner.cs 10.line , PlayerCollisionController.cs 3.line
+#Prefabs - Spawner.cs 7.line
+#Attributes - Spawner.cs 10.line , PlayerCollisionController.cs 3.line
 Ternary operator - Spawner.cs 41.line
 Event - Player.cs 7.line
 List - Spawner.cs 7.line
